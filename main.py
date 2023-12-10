@@ -17,4 +17,9 @@ label2.pack()
 text2 = tkinter.Text(width=15,height=2)
 text2.pack()
 
+button = tkinter.Button(text="Calculate")
+button.pack()
+
+
+
 window.mainloop()
